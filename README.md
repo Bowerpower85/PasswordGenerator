@@ -2,4 +2,4 @@ This is a password generator designed to help users generate a random password. 
 
 https://bowerpower85.github.io/PasswordGenerator/
 
-<img src="Assets/PasswordGen.png" width="200px" height="300px">
+<img src="Assets/PasswordGen.png" width="400px" height="500px">
